@@ -46,6 +46,6 @@ print-fragments : true
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
 title : "GitPitch Pro Code Revealing"
-description : "Take complete control over how your source code snippets are revealed on any GitPitch slide."
+description : "Take complete control over how and when your source code snippets are revealed on any GitPitch slide."
 thumbnail : https://gitpitch.com/gpimg/pro-code-revealing-thumb.png
 
