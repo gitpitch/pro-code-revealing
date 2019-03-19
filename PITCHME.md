@@ -44,9 +44,9 @@
 @code[js code-reveal-slow](src/node/sample.js)
 
 @snap[south span-100 text-08]
-@[1, zoom-21](Code revealing *slow-mode* lets you start by hiding the code on your slide.)
-@[3,4, zoom-20](And then gradually introduce specific code snippets to your audience.)
-@[6-10, zoom-12](Again using optional annotations to focus the attention of your audience.)
+@[1, zoom-20](Code revealing *slow-mode* lets you start by hiding the code on your slide.)
+@[1-4, zoom-20](And then gradually introduce specific code snippets to your audience.)
+@[1-10, zoom-12](Again using optional annotations to focus the attention of your audience.)
 @snapend
 
 ---
@@ -66,9 +66,9 @@
 @code[js code-reveal-fast](src/node/sample.js)
 
 @snap[south span-100 text-08]
-@[1, zoom-21](Code revealing *fast-mode* bypasses the intial full code slide.)
-@[3,4, zoom-20](This lets you jump straight into sharing specific code snippets with your audience.)
-@[6-10, zoom-12](Again using optional annotations to focus the attention of your audience.)
+@[3-4, zoom-20](Code revealing *fast-mode* bypasses the intial full code slide.)
+@[1-4, zoom-20](This lets you jump straight into sharing specific code snippets with your audience.)
+@[1-10, zoom-12](Again using optional annotations to focus the attention of your audience.)
 @snapend
 
 ---?color=#1d1f21
