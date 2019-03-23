@@ -1,7 +1,7 @@
 @title[Introduction]
 
 # `GitPitch Code`
-**Presenting** @fa[plus-square text-gold] **Revealing**
+**Present** @fa[plus-square text-gold] **Reveal** @fa[plus-square text-gold] **Discuss**
 
 @snap[south span-100 text-07]
 `GitPitch modern slide decks speak code fluently.`
@@ -17,10 +17,10 @@
 `Default mode first displays the full code on your slide. Then lets you step-focus-and-zoom on specific snippets within that code.`
 @snapend
 
----?color=#1d1f21
+---
 @title[Code Presenting Demo]
 
-@code[js zoom-12](src/node/sample.js)
+@code[js code-pro zoom-12](src/node/sample.js)
 
 @snap[south span-100 text-08]
 @[1, zoom-17](After displaying the full code, each code presenting step lets you drill down into the code.)
@@ -38,10 +38,10 @@
 `Slow mode first hides all code on your slide. Then lets you step-focus-and-zoom on specific snippets within that code.`
 @snapend
 
----?color=#1d1f21
+---
 @title[Revealing Slow Mode Demo]
 
-@code[js code-reveal-slow](src/node/sample.js)
+@code[js code-pro code-reveal-slow](src/node/sample.js)
 
 @snap[south span-100 text-08]
 @[1, zoom-20](Code revealing *slow-mode* lets you start by hiding the code on your slide.)
@@ -60,10 +60,10 @@
 @snapend
 
 
----?color=#1d1f21
+---
 @title[Revealing Fast Mode Demo]
 
-@code[js code-reveal-fast](src/node/sample.js)
+@code[js code-pro code-reveal-fast](src/node/sample.js)
 
 @snap[south span-100 text-08]
 @[3-4, zoom-20](Code revealing *fast-mode* bypasses the intial full code slide.)
