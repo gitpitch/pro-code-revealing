@@ -20,7 +20,7 @@
 ---
 @title[Code Presenting Demo]
 
-@code[js code-pro zoom-12](src/node/sample.js)
+@code[js code-power zoom-12](src/node/sample.js)
 
 @snap[south span-100 text-08]
 @[1, zoom-17](After displaying the full code, each code presenting step lets you drill down into the code.)
@@ -41,7 +41,7 @@
 ---
 @title[Revealing Slow Mode Demo]
 
-@code[js code-pro code-reveal-slow](src/node/sample.js)
+@code[js code-power code-reveal-slow](src/node/sample.js)
 
 @snap[south span-100 text-08]
 @[1, zoom-20](Code revealing *slow-mode* lets you start by hiding the code on your slide.)
@@ -63,7 +63,7 @@
 ---
 @title[Revealing Fast Mode Demo]
 
-@code[js code-pro code-reveal-fast](src/node/sample.js)
+@code[js code-power code-reveal-fast](src/node/sample.js)
 
 @snap[south span-100 text-08]
 @[3-4, zoom-20](Code revealing *fast-mode* bypasses the intial full code slide.)
